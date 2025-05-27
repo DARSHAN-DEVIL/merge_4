@@ -1,4 +1,4 @@
-package src.fourth;
+
 
 public class BookSales extends Book {
     String saler;
